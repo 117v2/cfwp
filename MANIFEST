@@ -1,0 +1,18 @@
+a.pl
+cfwp-0.01.tar.gz
+cfwp-fio-v0.0.1.tar.gz
+cfwp-v0.0.1.tar.gz
+lib/cfwp/fio.pm
+lib/cip
+Makefile.PL
+Makefile.pl
+MANIFEST			This list of files
+README.pod
+sample.txt
+script/cip
+script/expe
+script/expe.pl
+script/fstdown
+script/fstup
+setup
+test.pl
